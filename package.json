@@ -1,0 +1,9 @@
+{
+  "name": "sprout-circuit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/game-core.test.mjs",
+    "preview": "python3 -m http.server 8091 --bind 127.0.0.1"
+  }
+}
