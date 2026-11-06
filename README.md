@@ -2,8 +2,8 @@
 
 A standalone export of Ludazo’s original garden clicker. Harvest seeds, buy gloves to improve each tap, and unlock sprinklers and helper bots for automatic production. Milestones track lifetime seeds; offline production is capped at two hours.
 
-- Play the original: https://ludazo.com/games/sprout-circuit
-- More clicker games: https://ludazo.com/clicker-games-unblocked
+- Play the original: https://ludazo.com/games/sprout-circuit/
+- More clicker games: https://ludazo.com/clicker-games-unblocked/
 
 ## Run locally
 
